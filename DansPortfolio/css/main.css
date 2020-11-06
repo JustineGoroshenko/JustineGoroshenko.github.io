@@ -1059,7 +1059,7 @@ button:hover{
     right: 5rem;
     border-radius: 100%;
     display:flex;
-    animation:pulse 2s infinite;
+    animation 2s infinite;
     cursor:pointer;
 }
 .up i{
