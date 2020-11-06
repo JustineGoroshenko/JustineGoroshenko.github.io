@@ -4,7 +4,7 @@
        box-shadow: 0 0 0 0 rgba(251, 103, 149,0.99)
    }
    70%{
-       box-shadow: 0 0 2rem 2rem rgb(15, 228, 217, 0.9)
+       box-shadow: 0 0 1rem 1rem rgb(15, 228, 217, 0.9)
    }
    100%{
        box-shadow: 0 0 0 0 rgba(255, 56, 122, 0.9);
